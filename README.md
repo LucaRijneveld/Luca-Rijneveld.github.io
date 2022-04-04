@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Luca Rijneveld
 
 You can use the [editor on GitHub](https://github.com/LucaRijneveld/Luca-Rijneveld.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
